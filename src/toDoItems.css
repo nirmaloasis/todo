@@ -1,0 +1,26 @@
+.btn-group{
+    display:inline-block;
+    float: right;
+  }
+  
+  .btn-group button{
+    width:auto;
+    
+    border:none;
+    background-color:#48484B;
+    color:#fff;
+  }
+  .btn-group button:hover{
+    background-color: #080405;
+    cursor: pointer;
+  }
+
+  .textSpan{
+    padding-right: 15px;
+  }
+  .listCompletd{
+    background: grey
+  }
+  .listMarked{
+    background: brown
+  }
